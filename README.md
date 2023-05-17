@@ -28,7 +28,7 @@
 
 
 
-## [![Practices](./images/icons/practices-icon.png)](/Practices/PRACTICES.md) ***- Практики**
+## [![Practices](./images/icons/practices-icon.png)](/Practices/PRACTICES.md) **- Практики**
 - ### [Practices Map](/Practices/Practices-Map.md) **- Карта практик в безопасности цепочкек поставок***
 
 
