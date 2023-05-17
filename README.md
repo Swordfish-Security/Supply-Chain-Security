@@ -12,7 +12,7 @@
 ## [![Articles](./images/icons/articles-icon.png)](/Articles/ARTICLES.md) **- Статьи**
 
 
-## [![Best Practices](./images/icons/best-pracrices-icon.png)](/Best-Practices/BEST-PRACTICES.md) **- Лучшие**
+## [![Best Practices](./images/icons/best-pracrices-icon.png)](/Best-Practices/BEST-PRACTICES.md) **- Лучшие Практики**
 
 
 ## [![Frameworks](./images/icons/frameworks-icon.png)](/Frameworks/FRAMEWORKS.md) **- Фреймфорки**
