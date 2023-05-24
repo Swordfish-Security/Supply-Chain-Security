@@ -11,6 +11,7 @@
 
 ## [![Articles](./images/icons/articles-icon.png)](/Articles/ARTICLES.md) **- Статьи**
 
+## [![Lectures](./images/icons/lectures-icon.png)](/Lectures/LECTURES.md) **- Доклады**
 
 ## [![Best Practices](./images/icons/best-pracrices-icon.png)](/Best-Practices/BEST-PRACTICES.md) **- Лучшие Практики**
 
